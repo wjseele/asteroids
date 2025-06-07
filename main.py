@@ -14,7 +14,7 @@ def main():
     except Exception as e:
         print(f"Error encountered: {e}")
 
-    clock = pygame.time.Clock
+    clock = pygame.time.Clock()
     dt = 0
     
     screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
