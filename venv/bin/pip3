@@ -1,4 +1,4 @@
-#!/Users/wjseele/Code/GitHub/wjseele/asteroids/venv/bin/python3
+#!/Users/wjseele/Code/BootDotDev/6.Asteroids/asteroids/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

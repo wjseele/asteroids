@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/wjseele/Code/GitHub/wjseele/asteroids/venv"
+VIRTUAL_ENV="/Users/wjseele/Code/BootDotDev/6.Asteroids/asteroids/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
